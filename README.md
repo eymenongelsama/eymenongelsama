@@ -1,4 +1,4 @@
-<!-- Minimal profile README for @eymenongelsama -->
+<!-- Profile README for @eymenongelsama -->
 
 <p align="center">
   <a href="https://github.com/eymenongelsama">
@@ -19,21 +19,36 @@
 
 ---
 
+## 🟩 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eymenongelsama/eymenongelsama/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/eymenongelsama/eymenongelsama/output/github-snake.svg" />
+  </picture>
+</p>
+
+
 ### Now
-- 🤖 **AI + agents** for practical automation
+- **AI + agents** for practical automation
 - 🧠 **Signal > noise**: research, systems, execution
-- 📈 **Freqtrade** experiments (strategies, backtests, risk)
+- **Data**
 
 ### Highlight
-- **Freqtrade**: strategies + research notebook + backtests (coming soon)
+- **Alina f3 project**: strategies + research notebook + backtests
 
----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eymenongelsama&show_icons=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eymenongelsama&show_icons=true&hide_title=true&cache_seconds=86400" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymenongelsama&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eymenongelsama&layout=compact&cache_seconds=86400" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eymenongelsama" alt="Activity graph" />
+</p>
+
+<!-- Extra spacing-->
+<br/><br/><br/><br/>
