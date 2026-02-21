@@ -28,15 +28,6 @@
 - **Alina f3 project**: strategies + research notebook + backtests
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eymenongelsama&show_icons=true&hide_title=true&cache_seconds=86400" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymenongelsama&layout=compact&langs_count=8&cache_seconds=86400" alt="Top languages" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eymenongelsama" alt="Activity graph" />
