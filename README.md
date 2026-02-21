@@ -37,11 +37,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eymenongelsama&show_icons=true&hide_title=true&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eymenongelsama&show_icons=true&hide_title=true&cache_seconds=86400" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eymenongelsama&layout=compact&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymenongelsama&layout=compact&langs_count=8&cache_seconds=86400" alt="Top languages" />
 </p>
 
 
