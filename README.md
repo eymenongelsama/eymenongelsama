@@ -17,9 +17,7 @@
   <a href="https://github.com/eymenongelsama">GitHub</a>
 </p>
 
----
-
-## 🟩 Contribution Snake
+--
 
 <p align="center">
   <picture>
@@ -45,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eymenongelsama&layout=compact&cache_seconds=86400" alt="Top languages" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eymenongelsama" alt="Activity graph" />
