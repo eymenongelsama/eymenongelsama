@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/eymenongelsama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=520&lines=Building+AI+%2B+Crypto+systems.;Trading+automation+with+Freqtrade.;Less+noise.+More+signal." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=520&lines=Building+AI+%2B+Crypto+systems.;Trading+automation+with+brain;Less+noise.+More+signal." alt="Typing SVG" />
   </a>
 </p>
 
