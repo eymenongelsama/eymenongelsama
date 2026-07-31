@@ -1,32 +1,3 @@
-<!-- Profile README for @eymenongelsama -->
-
-<p align="center">
-  <a href="https://github.com/eymenongelsama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=520&lines=Building+AI+%2B+Crypto+systems.;Trading+automation+with+brain;Less+noise.+More+signal." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Crypto-333" />
-  <img src="https://img.shields.io/badge/Lifestyle-Training%20%7C%20Learning-333" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Data%20%7C%20Automation-333" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/eymenongelsama?tab=repositories">Projects</a> •
-  <a href="https://github.com/eymenongelsama">GitHub</a>
-</p>
-
---
-
-### Now
-- **AI + agents** for practical automation
-- 🧠 **Signal > noise**: research, systems, execution
-- **Data**
-
-### Highlight
-- **Alina f3 project**: strategies + research notebook + backtests
-
 
 
 <p align="center">
